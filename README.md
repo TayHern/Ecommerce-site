@@ -17,7 +17,7 @@
 ## Installation
 Just run the application by going to <link>
 ## Usage
-Lazy workaholics.
+Who uses it?
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
