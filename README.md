@@ -3,9 +3,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-
-
-![images]()
+This is a backend only application for those wanting to start an ecommerce website
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,9 +13,10 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Just run the application by going to <link>
+Just run the application by going to <link> and following the instructions.
+You must also make sure that you have a .env file set up with your password and the database of ecommerce_db
 ## Usage
-Who uses it?
+This is for those who are interested in creating a new ecommerce website.
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
